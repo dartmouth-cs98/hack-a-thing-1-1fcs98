@@ -1,0 +1,1268 @@
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-20 14:47:14 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (34.2ms)
+  Rendered welcome/_navbar.html.erb (7.3ms)
+Completed 200 OK in 325ms (Views: 310.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/houseicon.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/noteicon.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/seeforyourself.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/action.png" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/assets/homepage.jpg" for 127.0.0.1 at 2018-09-20 14:47:15 -0400
+
+
+Started GET "/users/sign_up" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+Processing by Devise::RegistrationsController#new as HTML
+  Rendered devise/registrations/new.html.erb within layouts/application (19.0ms)
+  Rendered devise/registrations/_navbar.html.erb (1.8ms)
+Completed 200 OK in 138ms (Views: 134.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started GET "/assets/signupimage.jpg" for 127.0.0.1 at 2018-09-20 14:47:21 -0400
+
+
+Started POST "/users" for 127.0.0.1 at 2018-09-20 14:47:31 -0400
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "user"=>{"name"=>"gabe", "bio"=>"student", "city"=>"Naples", "state"=>"FL", "email"=>"gabecorso@aol.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "users"  WHERE "users"."email" = 'gabecorso@aol.com' LIMIT 1[0m
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "users" ("bio", "city", "created_at", "email", "encrypted_password", "name", "state", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)  [["bio", "student"], ["city", "Naples"], ["created_at", "2018-09-20 18:47:31.939127"], ["email", "gabecorso@aol.com"], ["encrypted_password", "$2a$10$WdEKDm81WLQeKtdoJgGlw.VYq5h96DEucFN0SfRNAp4D7VDb6VOHW"], ["name", "gabe"], ["state", "FL"], ["updated_at", "2018-09-20 18:47:31.939127"]]
+  Rendered user_mailer/user_created_email.html.erb (0.4ms)
+
+UserMailer#user_created_email: processed outbound mail in 32.4ms
+
+Sent mail to gabecorso@aol.com (9.3ms)
+Date: Thu, 20 Sep 2018 14:47:31 -0400
+From: gabecorso@gmail.com
+To: gabecorso@aol.com
+Message-ID: <5ba3eb43efb06_15183fd86fc9299437682@Gabes-iMac.local.mail>
+Subject: Account Created
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello gabe
+<br/>
+You have succesfully created an account on WeAct
+  [1m[36m (0.4ms)[0m  [1mrollback transaction[0m
+Completed 500 Internal Server Error in 125ms
+
+ArgumentError (SMTP-AUTH requested but missing secret phrase):
+  app/models/user.rb:47:in `send_user_create_email'
+
+
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (81.9ms)
+
+
+Started POST "/users" for 127.0.0.1 at 2018-09-20 14:50:11 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "user"=>{"name"=>"gabe", "bio"=>"student", "city"=>"Naples", "state"=>"FL", "email"=>"gabecorso@aol.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mUser Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "users"  WHERE "users"."email" = 'gabecorso@aol.com' LIMIT 1[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  Rendered devise/registrations/new.html.erb within layouts/application (16.0ms)
+  Rendered devise/registrations/_navbar.html.erb (4.2ms)
+Completed 200 OK in 371ms (Views: 248.7ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started GET "/assets/signupimage.jpg" for 127.0.0.1 at 2018-09-20 14:50:12 -0400
+
+
+Started POST "/users" for 127.0.0.1 at 2018-09-20 14:50:22 -0400
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "user"=>{"name"=>"gabe", "bio"=>"student", "city"=>"Naples", "state"=>"FL", "email"=>"gabecorso@aol.com", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM "users"  WHERE "users"."email" = 'gabecorso@aol.com' LIMIT 1
+Binary data inserted for `string` type on column `encrypted_password`
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "users" ("bio", "city", "created_at", "email", "encrypted_password", "name", "state", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["bio", "student"], ["city", "Naples"], ["created_at", "2018-09-20 18:50:22.543425"], ["email", "gabecorso@aol.com"], ["encrypted_password", "$2a$10$KCWGWZXLWUyjQwuut/.jXuRFk7uUvgl9UrXYzjLXiQ6t/wbFaG4AG"], ["name", "gabe"], ["state", "FL"], ["updated_at", "2018-09-20 18:50:22.543425"]]
+  Rendered user_mailer/user_created_email.html.erb (0.3ms)
+
+UserMailer#user_created_email: processed outbound mail in 31.7ms
+
+Sent mail to gabecorso@aol.com (1103.8ms)
+Date: Thu, 20 Sep 2018 14:50:22 -0400
+From: gabecorso@gmail.com
+To: gabecorso@aol.com
+Message-ID: <5ba3ebee8ea15_15243ff014de11f8734f7@Gabes-iMac.local.mail>
+Subject: Account Created
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello gabe
+<br/>
+You have succesfully created an account on WeAct
+  [1m[35mActsAsTaggableOn::Tagging Load (0.1ms)[0m  SELECT "taggings".* FROM "taggings"  WHERE "taggings"."taggable_id" = ? AND "taggings"."taggable_type" = ?  [["taggable_id", 1], ["taggable_type", "User"]]
+  [1m[36m (2.3ms)[0m  [1mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  begin transaction
+Binary data inserted for `string` type on column `current_sign_in_ip`
+Binary data inserted for `string` type on column `last_sign_in_ip`
+  [1m[36mSQL (0.3ms)[0m  [1mUPDATE "users" SET "current_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_at" = ?, "last_sign_in_ip" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = 1[0m  [["current_sign_in_at", "2018-09-20 18:50:23.696150"], ["current_sign_in_ip", "127.0.0.1"], ["last_sign_in_at", "2018-09-20 18:50:23.696150"], ["last_sign_in_ip", "127.0.0.1"], ["sign_in_count", 1], ["updated_at", "2018-09-20 18:50:23.697058"]]
+  [1m[35m (0.7ms)[0m  commit transaction
+Redirected to http://localhost:3000/
+Completed 302 Found in 1229ms (ActiveRecord: 4.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (9.8ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  Rendered welcome/_navbar.html.erb (5.6ms)
+Completed 200 OK in 129ms (Views: 128.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:23 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/seeforyourself.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/houseicon.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/noteicon.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/action.png" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/assets/homepage.jpg" for 127.0.0.1 at 2018-09-20 14:50:24 -0400
+
+
+Started GET "/events/new" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+Processing by EventsController#new as HTML
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+DEPRECATION WARNING: [paperclip] [deprecation] Rails 3.2 and 4.1 are unsupported as of Rails 5 release. Please upgrade to Rails 4.2 before upgrading paperclip. (called from <class:Event> at /Users/Gabe/Desktop/CS98/Hack-a-thing-1/app/models/event.rb:13)
+  Rendered events/_form.html.erb (23.9ms)
+  Rendered events/new.html.erb within layouts/application (26.5ms)
+  Rendered events/_navbar.html.erb (1.7ms)
+Completed 200 OK in 158ms (Views: 141.5ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:29 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+
+
+Started GET "/events/favicon.ico" for 127.0.0.1 at 2018-09-20 14:50:30 -0400
+Processing by EventsController#show as 
+  Parameters: {"id"=>"favicon"}
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events"  WHERE "events"."id" = ? LIMIT 1[0m  [["id", 0]]
+Completed 404 Not Found in 1ms
+
+ActiveRecord::RecordNotFound (Couldn't find Event with 'id'=favicon):
+  app/controllers/events_controller.rb:78:in `set_event'
+
+
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.0ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.0ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (82.2ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2018-09-20 14:53:19 -0400
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "event"=>{"title"=>"CS98 Kickoff Party", "description"=>"get hype for the next two terms!", "city"=>"Hanover", "state"=>"New Hampshire", "address"=>"61 Carson", "event_time(1i)"=>"2018", "event_time(2i)"=>"9", "event_time(3i)"=>"21", "event_time(4i)"=>"18", "event_time(5i)"=>"50", "picture"=>#<ActionDispatch::Http::UploadedFile:0x007fe0295a9748 @tempfile=#<Tempfile:/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/RackMultipart20180920-5412-1v1mb8b>, @original_filename="IMG_5911.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"event[picture]\"; filename=\"IMG_5911.jpg\"\r\nContent-Type: image/jpeg\r\n">, "category_list"=>"Computer Science"}, "commit"=>"Submit"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+Command :: file -b --mime '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-5412-1h5hkuo.jpg'
+Command :: identify -format '%wx%h,%[exif:orientation]' '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-5412-3shgkc.jpg[0]' 2>/dev/null
+Completed 500 Internal Server Error in 68ms
+
+Paperclip::Errors::CommandNotFoundError (Could not run the `identify` command. Please install ImageMagick.):
+  app/controllers/events_controller.rb:11:in `create'
+
+
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.8ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.4ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (84.1ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2018-09-20 14:56:56 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "event"=>{"title"=>"CS98 Kickoff Party", "description"=>"get hype for the next two terms!", "city"=>"Hanover", "state"=>"New Hampshire", "address"=>"61 Carson", "event_time(1i)"=>"2018", "event_time(2i)"=>"9", "event_time(3i)"=>"21", "event_time(4i)"=>"18", "event_time(5i)"=>"50", "picture"=>#<ActionDispatch::Http::UploadedFile:0x007fe8fae8ea78 @tempfile=#<Tempfile:/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/RackMultipart20180920-5455-1vgf4zo>, @original_filename="IMG_5911.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"event[picture]\"; filename=\"IMG_5911.jpg\"\r\nContent-Type: image/jpeg\r\n">, "category_list"=>"Computer Science"}, "commit"=>"Submit"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+DEPRECATION WARNING: [paperclip] [deprecation] Rails 3.2 and 4.1 are unsupported as of Rails 5 release. Please upgrade to Rails 4.2 before upgrading paperclip. (called from <class:Event> at /Users/Gabe/Desktop/CS98/Hack-a-thing-1/app/models/event.rb:13)
+Command :: PATH=/usr/local/bin:$PATH; file -b --mime '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-5455-b7kjom.jpg'
+Command :: PATH=/usr/local/bin:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-5455-bc70kt.jpg[0]' 2>/dev/null
+Completed 500 Internal Server Error in 75ms
+
+Paperclip::Errors::CommandNotFoundError (Could not run the `identify` command. Please install ImageMagick.):
+  app/controllers/events_controller.rb:11:in `create'
+
+
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_source.erb (0.7ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.2ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.3ms)
+  Rendered /Users/Gabe/.rvm/gems/ruby-2.2.1/gems/actionpack-4.1.1/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (82.7ms)
+
+
+Started POST "/events" for 127.0.0.1 at 2018-09-20 15:09:48 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by EventsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"gsptByEKHD/HcIFo/2caoAf3oCwGjFajmvPr5jkBCzk=", "event"=>{"title"=>"CS98 Kickoff Party", "description"=>"get hype for the next two terms!", "city"=>"Hanover", "state"=>"New Hampshire", "address"=>"61 Carson", "event_time(1i)"=>"2018", "event_time(2i)"=>"9", "event_time(3i)"=>"21", "event_time(4i)"=>"18", "event_time(5i)"=>"50", "picture"=>#<ActionDispatch::Http::UploadedFile:0x007f81e0d239f8 @tempfile=#<Tempfile:/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/RackMultipart20180920-10704-sjeh10>, @original_filename="IMG_5911.jpg", @content_type="image/jpeg", @headers="Content-Disposition: form-data; name=\"event[picture]\"; filename=\"IMG_5911.jpg\"\r\nContent-Type: image/jpeg\r\n">, "category_list"=>"Computer Science"}, "commit"=>"Submit"}
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+DEPRECATION WARNING: [paperclip] [deprecation] Rails 3.2 and 4.1 are unsupported as of Rails 5 release. Please upgrade to Rails 4.2 before upgrading paperclip. (called from <class:Event> at /Users/Gabe/Desktop/CS98/Hack-a-thing-1/app/models/event.rb:13)
+Command :: PATH=/usr/local/bin:$PATH; file -b --mime '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1m0m71s.jpg'
+Command :: PATH=/usr/local/bin:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin:$PATH; identify -format %m '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]'
+Command :: PATH=/usr/local/bin:$PATH; convert '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]' -auto-orient -resize "300x300>" '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/ee0d36fd3eb931a55cadc70ba5cc62de20180920-10704-1lxg460'
+Command :: PATH=/usr/local/bin:$PATH; identify -format '%wx%h,%[exif:orientation]' '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]' 2>/dev/null
+Command :: PATH=/usr/local/bin:$PATH; identify -format %m '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]'
+Command :: PATH=/usr/local/bin:$PATH; convert '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-1fulth4.jpg[0]' -auto-orient -resize "100x100>" '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/ee0d36fd3eb931a55cadc70ba5cc62de20180920-10704-13n78wo'
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Command :: PATH=/usr/local/bin:$PATH; file -b --mime '/var/folders/zg/99gytb7d70qc2_6p43nbqc9w0000gn/T/74810fe1dd758993f679e09d3beb578720180920-10704-cgi1nx.jpg'
+Binary data inserted for `string` type on column `picture_content_type`
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "events" ("address", "admin_id", "city", "created_at", "description", "event_time", "picture_content_type", "picture_file_name", "picture_file_size", "picture_updated_at", "state", "status", "title", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)  [["address", "61 Carson"], ["admin_id", 1], ["city", "Hanover"], ["created_at", "2018-09-20 19:09:49.049661"], ["description", "get hype for the next two terms!"], ["event_time", "2018-09-21 18:50:00.000000"], ["picture_content_type", "image/jpeg"], ["picture_file_name", "IMG_5911.jpg"], ["picture_file_size", 1322309], ["picture_updated_at", "2018-09-20 19:09:48.276435"], ["state", "New Hampshire"], ["status", 0], ["title", "CS98 Kickoff Party"], ["updated_at", "2018-09-20 19:09:49.049661"]]
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = ? LIMIT 1[0m  [["id", 1]]
+  Rendered user_mailer/event_created_email.html.erb (2.2ms)
+
+UserMailer#event_created_email: processed outbound mail in 51.6ms
+
+Sent mail to gabecorso@aol.com (1260.7ms)
+Date: Thu, 20 Sep 2018 15:09:49 -0400
+From: gabecorso@gmail.com
+To: gabecorso@aol.com
+Message-ID: <5ba3f07d2113b_29d03fc0efe86ae47407e@Gabes-iMac.local.mail>
+Subject: Event Created
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hello gabe
+You have just created an event on WeAct
+<a href="http://localhost:3000/events/1">http://localhost:3000/events/1</a>
+  [1m[35mActsAsTaggableOn::Tag Load (1.8ms)[0m  SELECT "tags".* FROM "tags"  WHERE (LOWER(name) = LOWER('computer science'))
+  [1m[36mActsAsTaggableOn::Tag Exists (0.1ms)[0m  [1mSELECT  1 AS one FROM "tags"  WHERE "tags"."name" = 'Computer Science' LIMIT 1[0m
+  [1m[35mSQL (0.1ms)[0m  INSERT INTO "tags" ("name") VALUES (?)  [["name", "Computer Science"]]
+  [1m[36mActsAsTaggableOn::Tag Load (0.1ms)[0m  [1mSELECT "tags".* FROM "tags" INNER JOIN "taggings" ON "tags"."id" = "taggings"."tag_id" WHERE "taggings"."taggable_id" = ? AND "taggings"."taggable_type" = ? AND (taggings.context = 'categories' AND taggings.tagger_id IS NULL)[0m  [["taggable_id", 1], ["taggable_type", "Event"]]
+  [1m[35mActsAsTaggableOn::Tagging Exists (0.1ms)[0m  SELECT  1 AS one FROM "taggings"  WHERE ("taggings"."tag_id" = 1 AND "taggings"."taggable_type" = 'Event' AND "taggings"."taggable_id" = 1 AND "taggings"."context" = 'categories' AND "taggings"."tagger_id" IS NULL AND "taggings"."tagger_type" IS NULL) LIMIT 1
+  [1m[36mSQL (0.2ms)[0m  [1mINSERT INTO "taggings" ("context", "created_at", "tag_id", "taggable_id", "taggable_type") VALUES (?, ?, ?, ?, ?)[0m  [["context", "categories"], ["created_at", "2018-09-20 19:09:50.474652"], ["tag_id", 1], ["taggable_id", 1], ["taggable_type", "Event"]]
+  [1m[35mActsAsTaggableOn::Tag Load (0.1ms)[0m  SELECT  "tags".* FROM "tags"  WHERE "tags"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mSQL (0.1ms)[0m  [1mUPDATE "tags" SET "taggings_count" = COALESCE("taggings_count", 0) + 1 WHERE "tags"."id" = 1[0m
+  [1m[35m (4.1ms)[0m  commit transaction
+Redirected to http://localhost:3000/events/1
+Completed 302 Found in 2264ms (ActiveRecord: 9.1ms)
+
+
+Started GET "/events/1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mEvent Load (0.2ms)[0m  [1mSELECT  "events".* FROM "events"  WHERE "events"."id" = ? LIMIT 1[0m  [["id", 1]]
+  [1m[35mUser Load (0.1ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+  [1m[36mUser Exists (0.2ms)[0m  [1mSELECT  1 AS one FROM "users" INNER JOIN "memberships" ON "users"."id" = "memberships"."user_id" WHERE "memberships"."event_id" = ? AND "users"."id" = 1 LIMIT 1[0m  [["event_id", 1]]
+  [1m[35mTeam Load (0.1ms)[0m  SELECT "teams".* FROM "teams"  WHERE "teams"."event_id" = ?  [["event_id", 1]]
+  Rendered events/show.html.erb within layouts/application (16.8ms)
+  Rendered events/_navbar.html.erb (4.6ms)
+Completed 200 OK in 289ms (Views: 287.0ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:50 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:09:51 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-20 15:09:59 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (25.5ms)
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  Rendered welcome/_navbar.html.erb (2.4ms)
+Completed 200 OK in 135ms (Views: 133.9ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/houseicon.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/seeforyourself.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/noteicon.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/action.png" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/assets/homepage.jpg" for 127.0.0.1 at 2018-09-20 15:10:00 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+Processing by EventsController#index as HTML
+  [1m[35mEvent Load (0.2ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/_events.html.erb (2.0ms)
+  [1m[36mUser Load (0.3ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  Rendered events/index.html.erb within layouts/application (7.3ms)
+  Rendered events/_navbar.html.erb (0.8ms)
+Completed 200 OK in 127ms (Views: 126.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/searchicon.png" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/assets/shovel.jpg" for 127.0.0.1 at 2018-09-20 15:10:09 -0400
+
+
+Started GET "/events/1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM "users" INNER JOIN "memberships" ON "users"."id" = "memberships"."user_id" WHERE "memberships"."event_id" = ? AND "users"."id" = 1 LIMIT 1  [["event_id", 1]]
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"  WHERE "teams"."event_id" = ?[0m  [["event_id", 1]]
+  Rendered events/show.html.erb within layouts/application (3.8ms)
+  Rendered events/_navbar.html.erb (0.9ms)
+Completed 200 OK in 111ms (Views: 109.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:11 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:10:12 -0400
+
+
+Started GET "/" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+Processing by WelcomeController#index as HTML
+  Rendered welcome/index.html.erb within layouts/application (2.8ms)
+  [1m[35mUser Load (0.2ms)[0m  SELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1
+  Rendered welcome/_navbar.html.erb (1.6ms)
+Completed 200 OK in 110ms (Views: 109.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/houseicon.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/seeforyourself.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/noteicon.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/action.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/assets/homepage.jpg" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
