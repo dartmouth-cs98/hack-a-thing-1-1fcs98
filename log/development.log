@@ -1266,3 +1266,326 @@ Started GET "/assets/action.png" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
 
 
 Started GET "/assets/homepage.jpg" for 127.0.0.1 at 2018-09-20 15:10:13 -0400
+
+
+Started GET "/events" for 127.0.0.1 at 2018-09-20 15:15:40 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by EventsController#index as HTML
+DEPRECATION WARNING: [paperclip] [deprecation] Rails 3.2 and 4.1 are unsupported as of Rails 5 release. Please upgrade to Rails 4.2 before upgrading paperclip. (called from <class:Event> at /Users/Gabe/Desktop/CS98/Hack-a-thing-1/app/models/event.rb:13)
+  [1m[35mEvent Load (0.1ms)[0m  SELECT "events".* FROM "events"
+  Rendered events/_events.html.erb (9.7ms)
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  Rendered events/index.html.erb within layouts/application (30.5ms)
+  Rendered events/_navbar.html.erb (4.7ms)
+Completed 200 OK in 290ms (Views: 265.8ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/searchicon.png" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/assets/shovel.jpg" for 127.0.0.1 at 2018-09-20 15:15:41 -0400
+
+
+Started GET "/events/1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mEvent Load (0.2ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.1ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35mUser Exists (0.2ms)[0m  SELECT  1 AS one FROM "users" INNER JOIN "memberships" ON "users"."id" = "memberships"."user_id" WHERE "memberships"."event_id" = ? AND "users"."id" = 1 LIMIT 1  [["event_id", 1]]
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"  WHERE "teams"."event_id" = ?[0m  [["event_id", 1]]
+  Rendered events/show.html.erb within layouts/application (29.2ms)
+  Rendered events/_navbar.html.erb (1.0ms)
+Completed 200 OK in 144ms (Views: 141.7ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:15:43 -0400
+
+
+Started GET "/events/1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by EventsController#show as HTML
+  Parameters: {"id"=>"1"}
+DEPRECATION WARNING: [paperclip] [deprecation] Rails 3.2 and 4.1 are unsupported as of Rails 5 release. Please upgrade to Rails 4.2 before upgrading paperclip. (called from <class:Event> at /Users/Gabe/Desktop/CS98/Hack-a-thing-1/app/models/event.rb:13)
+  [1m[35mEvent Load (0.1ms)[0m  SELECT  "events".* FROM "events"  WHERE "events"."id" = ? LIMIT 1  [["id", 1]]
+  [1m[36mUser Load (0.2ms)[0m  [1mSELECT  "users".* FROM "users"  WHERE "users"."id" = 1  ORDER BY "users"."id" ASC LIMIT 1[0m
+  [1m[35mUser Exists (0.1ms)[0m  SELECT  1 AS one FROM "users" INNER JOIN "memberships" ON "users"."id" = "memberships"."user_id" WHERE "memberships"."event_id" = ? AND "users"."id" = 1 LIMIT 1  [["event_id", 1]]
+  [1m[36mTeam Load (0.1ms)[0m  [1mSELECT "teams".* FROM "teams"  WHERE "teams"."event_id" = ?[0m  [["event_id", 1]]
+  Rendered events/show.html.erb within layouts/application (50.6ms)
+  Rendered events/_navbar.html.erb (4.2ms)
+Completed 200 OK in 310ms (Views: 283.7ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/assets/bootstrap-custom.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/event-show.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/signup.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/events.css?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap-sprockets" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/events.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/bootstrap-sprockets.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/highcharts/highcharts.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/createeventbutton.png" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/findeventbutton.png" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
+
+
+Started GET "/assets/weact.jpg" for 127.0.0.1 at 2018-09-20 15:16:19 -0400
